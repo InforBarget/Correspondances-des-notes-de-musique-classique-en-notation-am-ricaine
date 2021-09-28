@@ -1,0 +1,16 @@
+body{
+	font-family: Arial;
+}
+
+#displayAmericanNote{
+	border: 1px solid black;
+	width: 200px;
+	min-height: 30px;
+	margin: 20px auto 0 auto;
+	padding: 20px;
+}
+
+form{
+	width: 200px;
+	margin: 0 auto;
+}
